@@ -1,1 +1,1 @@
-Software to visualise hgigh throughput biological data.
+Software to visualise high throughput biological data.
